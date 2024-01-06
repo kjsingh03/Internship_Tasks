@@ -12,8 +12,7 @@ All websites are fully responsive and are built by integration of organisation's
 
 #Nice_forms :       https://niceforms.netlify.app/
 
-#Okta :            
-https://oktaa.netlify.app/
+#Okta :             https://oktaa.netlify.app/
 
 #Pari_Library :     https://parilibrary.netlify.app/
 
