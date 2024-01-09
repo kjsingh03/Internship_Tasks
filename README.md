@@ -1,6 +1,6 @@
 # Internship_Tasks
 
-All websites are fully responsive and are built by integration of organisation's theme css file with pre-built components.  
+All webpages are fully responsive and are built by integration of organisation's theme css file with pre-built components.  
 
 #Pocket_Bits :      https://pocketbits.netlify.app/
 
