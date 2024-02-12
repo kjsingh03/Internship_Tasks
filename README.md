@@ -4,8 +4,6 @@ All webpages are fully responsive and are built by integration of organisation's
 
 #Pocket_Bits :      https://pocketbits.netlify.app
 
-#Significa :        https://significa.netlify.app (PWA enabled)
-
 #Demo_Days :        https://demodays.netlify.app (PWA enabled)
 
 #Studio_Template :  https://studiotemplate.netlify.app (PWA enabled)
@@ -17,6 +15,8 @@ All webpages are fully responsive and are built by integration of organisation's
 #Nice_forms :       https://niceforms.netlify.app
 
 #Okta :             https://oktaa.netlify.app
+
+#Significa :        https://significa.netlify.app (PWA enabled)
 
 #Pari_Library :     https://parilibrary.netlify.app
 
